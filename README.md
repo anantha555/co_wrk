@@ -6,3 +6,4 @@ The page is responsive for both Desktop and Mobile screens.
 Further Improvements
 - Making navbar more functional 
 - link sections to navbar buttons using IDs
+- replace text logo with img logo
